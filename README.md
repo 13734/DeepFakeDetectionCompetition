@@ -13,9 +13,10 @@ I crawaled alomst all of the images on civitai.com and chose some of them for fa
 
 for your dataset.you can place your traning dataset labels in ./training_data and validation datasets in ./val_data like this
 
-path\tlabel1
-path2\tlabel2
-path3\tlabel3
+
+path\tlabel1\n
+path2\tlabel2\n
+path3\tlabel3\n
 ...
 ...
 ...
