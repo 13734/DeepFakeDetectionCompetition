@@ -1,6 +1,6 @@
 import shutil
 
-from utils.dataset import Dataset_Loader,DatasetLoaderTest
+from dataset import Dataset_Loader,DatasetLoaderTest
 from torch.utils.data import DataLoader
 import torchvision.transforms as transforms 
 from torchvision import models
